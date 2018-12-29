@@ -1,0 +1,7 @@
+D:\reps\Csgo_Crosshair_Gen\Csgo_Crosshair_Gen\bin\Debug\Csgo_Crosshair_Gen.exe.config
+D:\reps\Csgo_Crosshair_Gen\Csgo_Crosshair_Gen\bin\Debug\Csgo_Crosshair_Gen.exe
+D:\reps\Csgo_Crosshair_Gen\Csgo_Crosshair_Gen\bin\Debug\Csgo_Crosshair_Gen.pdb
+D:\reps\Csgo_Crosshair_Gen\Csgo_Crosshair_Gen\obj\Debug\Csgo_Crosshair_Gen.csprojResolveAssemblyReference.cache
+D:\reps\Csgo_Crosshair_Gen\Csgo_Crosshair_Gen\obj\Debug\Csgo_Crosshair_Gen.csproj.CoreCompileInputs.cache
+D:\reps\Csgo_Crosshair_Gen\Csgo_Crosshair_Gen\obj\Debug\Csgo_Crosshair_Gen.exe
+D:\reps\Csgo_Crosshair_Gen\Csgo_Crosshair_Gen\obj\Debug\Csgo_Crosshair_Gen.pdb
